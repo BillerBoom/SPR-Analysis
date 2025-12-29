@@ -1,3 +1,5 @@
 .venv/
 __pycache__/*.pyc
 notebooks/.ipynb_checkpoints/
+modules/__pycache__/
+sources/__pycache__/
