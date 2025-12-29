@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from gui import LiveGraphApp
+from modules.gui import LiveGraphApp
 from PyQt5.QtGui import QIcon
 
 

@@ -6,10 +6,10 @@ from PyQt5.QtWidgets import (
 import pyqtgraph as pg
 from pyqtgraph.exporters import CSVExporter
 from pandas import read_csv, DataFrame
-from watcher import FolderWatcher
+from modules.watcher import FolderWatcher
 import numpy as np
 import os
-from processing import SpectrumProcessor
+from modules.processing import SpectrumProcessor
 import shutil
 
 

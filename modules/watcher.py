@@ -3,7 +3,7 @@ from PyQt5.QtCore import QThread, pyqtSignal
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from pandas import read_csv,DataFrame
-from processing import SpectrumProcessor
+from modules.processing import SpectrumProcessor
 
 
 class FolderWatcher(QThread):
