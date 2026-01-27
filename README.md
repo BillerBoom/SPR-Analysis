@@ -2,7 +2,7 @@
 
 
 
-A mvp lab based project for spr analysis with gui interface.
+A mvp lab based project for analysis of live data of surface plasmon resonance with gui interface.
 
 
 
